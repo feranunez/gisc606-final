@@ -1,0 +1,5 @@
+i. My favorite part of this class, was just overall learning new basic and formats of coding/programming. Alex did such a great job explaining certains elements to different scripts and was a very very understanding Professor! I am forever grateful for both his class during this program.
+
+ii. My least favorite part of this class was that we never got to meet Alex in person. Alex was such a great professor. He understands and cares about his students. I also, wish that this class was longer, not just half a semester.
+
+iii. The only suggestion that could be given, maybe asking the class if there are any specific languages that they are interested in learning. I know python is the main language that works best with ArcGIS, but I would have loved to learn SQL or some Arcade. This are two languages that are also helpful in ArcGIS.
