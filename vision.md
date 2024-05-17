@@ -1,0 +1,5 @@
+i.	My dream GIS/tech job would have to be working for a government organization either at the city level or the County level. Typically this position tend to have great benefits both medical and retirement wise. So, if I could obtain a job like that, it would be awesome!
+
+ii. My ArcGIS Pro and any coding/programming application are the two that excite me the most. There is so much that can be accomplished using ArcGIS Pro and if you can combine some programming into, it just makes everything even better. I have a love hate relationship with programming but I’m always willing to try and learn more. 
+
+iii. I would like to continue focusing on improve any programming skills that I might have. It’s a great skill to have and many jobs looks for candidates that can code. Aside from GIS, I would like to focus on spending time with my family. This program has caused me to sacrifice a lot of time from my wife and kids but as soon as I finish, I am taking my family on a nice vacation. They’ve been such troopers since the beginning of this program. I can’t wait to spend more time with them.
